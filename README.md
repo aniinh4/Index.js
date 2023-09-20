@@ -2,12 +2,18 @@
 Tutorial: 20/09/2023
 por: Ana Clara Fernandes de Oliveira
 
-Como primeiro passo temos que abrir o terminal entrando no node-env utilizando os comandos: "source ./nodejs-env/bin/activate".
+Como primeiro passo temos que abrir o terminal (Ctrl+alt+T) entrando no node-env utilizando os comandos: "cd ./Documento/nodejs-env".
 
-Em seguida entre na pasta digitando no terminal: "cd ~/nodejs-env".
+Entrando no node-env utilize os comandos: "source ./nodejs-env/bin/activate".
 
-Como segundo passo escreva o seguinte comando: "node index.js" para poder abrir o arquivo.
+Em seguida ative o NodeJs digitando no terminal: "cd ~/nodejs-env".
+
+Como segundo passo escreva o seguinte comando: "sudo nano index.js" para poder editar o arquivo. 
+
+Depois de edita-lo, salve-o dando (Ctrl x+ S + Enter).
+
+Como passo seguinte escreva o seguinte comando: "node index.js" para poder oermitir o arquivo.
 
 Em terceiro passo abra seu navegador de pesquisa e digite na guia: "localhost:8030" para poder abrir a página que desejamos.
 
-Utilizei as frameworks foram o GitHub e o Nodejs.
+Utilizamos as frameworks (GitHub e o Nodejs).
