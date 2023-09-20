@@ -10,3 +10,4 @@ Como segundo passo escreva o seguinte comando: "node index.js" para poder abrir 
 
 Em terceiro passo abra seu navegador de pesquisa e digite na guia: "localhost:8030" para poder abrir a página que desejamos.
 
+Utilizei as frameworks foram o GitHub e o Nodejs.
